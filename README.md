@@ -5,7 +5,7 @@ FullStack Application developer
 -------------------------------
 
 * 🌍  I'm based in Bangalore,
-* 🖥️  See my portfolio at [get in touch](http://shricharan.in)
+* 🖥️  See my portfolio at [get in touch](https://charan2009.github.io/)
 * ✉️  You can contact me at [charan2009@gmail.com](mailto:charan2009@gmail.com)
 * 🧠  I'm learning React, Blazor, Laravel
 
